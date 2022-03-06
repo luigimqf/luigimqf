@@ -26,5 +26,9 @@
 
  
   ![Snake animation](https://github.com/luigimqf/luigimqf/blob/output/github-contribution-grid-snake.svg)
+    
  
 </div>
+  
+<div align="center">
+        <a href="https://app.daily.dev/luigimqf"><img src="https://api.daily.dev/devcards/3acb9cd923584ef980592bf7f590f2bd.png?r=nae" width="400" alt="Luigi Mendes's Dev Card"/></a></div>
