@@ -1,7 +1,7 @@
 ### Hi i'm Luigi Mendes, Junior FrontEnd developer enjoying the code world that we all love.  👋
 - 🔭 I’m currently working in Frontend    
 - 🌱 Studying Typescript, Next.js     
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I might hit my keyboard after more then 5 hours debugging the same thing. After this, i solve it.
   ##
 <div align="center">
   <a href="https://github.com/luigimqf">
