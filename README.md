@@ -1,6 +1,6 @@
 ### Hi i'm Luigi Mendes, Junior FrontEnd developer enjoying the code world that we all love.  👋
 - 🔭 I’m currently working in Frontend    
-- 🌱 Styding Typescript, Next.js     
+- 🌱 Studying Typescript, Next.js     
 - ⚡ Fun fact: ...
   ##
 <div align="center">
