@@ -4,9 +4,8 @@
 - ⚡ Fun fact: I might hit my keyboard after more then 5 hours debugging the same thing. After this, i solve it.
   ##
 <div align="center">
-  <a href="https://github.com/luigimqf">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luigimqf&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigimqf&layout=compact&langs_count=7&theme=radical"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=luigimqf&hide_border=true&background=010101&border=41a416&stroke=41a416&ring=41a416&fire=41a416&currStreakNum=41a416&sideNums=41a416&currStreakLabel=41a416&sideLabels=41a416&dates=41a416)](https://git.io/streak-stats"  width="390"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luigimqf&count_private=true&title_color=41a416&text_color=41a416&icon_color=41a416&border_color=41a416&bg_color=010101&hide_border=true"  width="390" />
 </div>
   <div style="display: inline_block"><br>
    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
