@@ -1,6 +1,6 @@
-### Hi i'm Luigi Mendes, Junior FrontEnd developer enjoying the code world that we all love. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+### Hi Stranger, i'm Luigi Mendes, Junior FrontEnd developer enjoying the code world that we all love. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 - 🔭 I’m currently working in Frontend    
-- 🌱 Studying Typescript, Next.js     
+- 🌱 Studying TDD, Next.js     
 - ⚡ Fun fact: I might hit my keyboard after more then 5 hours debugging the same thing. After this, i solve it.
   ##
 <div align="center">
