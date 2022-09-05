@@ -20,9 +20,8 @@
   <img src="https://img.shields.io/static/v1?label=&message=NODE.js&style=for-the-badge&logo=node.js&color=4f2382" />
 
 </div>   
-  ##
   
-  <div> 
+  <div align="center">
   <a href="https://www.instagram.com/luigimqf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/2euS26aAW4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luigi.jackson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
