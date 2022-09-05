@@ -8,19 +8,19 @@
   <img alt="code" src="./src/code.gif" width="100%"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=luigimqf&hide_border=true&background=010101&border=41a416&stroke=41a416&ring=41a416&fire=41a416&currStreakNum=41a416&sideNums=41a416&currStreakLabel=41a416&sideLabels=41a416&dates=41a416)](https://git.io/streak-stats"  width="390"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=luigimqf&count_private=true&title_color=41a416&text_color=41a416&icon_color=41a416&border_color=41a416&bg_color=010101&hide_border=true"  width="390" />
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=luigimqf&hide_border=true&background=00000000&border=7E3ACE&stroke=7E3ACE&ring=7E3ACE&fire=7E3ACE&currStreakNum=7E3ACE&sideNums=7E3ACE&currStreakLabel=7E3ACE&sideLabels=7E3ACE&dates=7E3ACE)](https://git.io/streak-stats"  width="390"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luigimqf&count_private=true&title_color=7E3ACE&text_color=7E3ACE&icon_color=7E3ACE&border_color=7E3ACE&bg_color=ffffff00&hide_border=true"  width="390" />
 </div>
-  <div style="display: inline_block"><br>
-   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<div align="center">   
     
+  <img src="https://img.shields.io/static/v1?label=&message=REACT.js&style=for-the-badge&logo=react&color=4f2382" />
+  <img src="https://img.shields.io/static/v1?label=&message=REDUX&style=for-the-badge&logo=redux&color=4f2382" />    
+  <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&style=for-the-badge&logo=javascript&color=4f2382" />
+  <img src="https://img.shields.io/static/v1?label=&message=TYPESCRIPT&style=for-the-badge&logo=typescript&color=4f2382" />
+  <img src="https://img.shields.io/static/v1?label=&message=NODE.js&style=for-the-badge&logo=node.js&color=4f2382" />
+
+</div>   
   ##
- 
   
   <div> 
   <a href="https://www.instagram.com/luigimqf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
