@@ -1,7 +1,7 @@
 ## 👋 Introduction
-I'm Luigi Mendes, Fullstack developer enjoying the code world that we all love. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
-- 🔭 I’m currently working in Frontend    
-- 🌱 Studying Advanced Typescript, devOps     
+I'm Luigi Mendes, Fullstack Engineer enjoying the code world that we all love. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+- 🔭 I’m currently working as a Fullstack Engineer    
+- 🌱 Studying postgreSQL, AWS and Docker     
 - ⚡ Fun fact: I might hit my keyboard after more then 5 hours debugging the same thing. After this, i solve it.
   ##
 
