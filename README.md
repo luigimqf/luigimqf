@@ -30,9 +30,10 @@ I'm Luigi Mendes, Fullstack Engineer enjoying the code world that we all love. <
 <div align="center">   
     
   <img src="https://img.shields.io/static/v1?label=&message=REACT.js&style=for-the-badge&logo=react&color=4f2382" />
-  <img src="https://img.shields.io/static/v1?label=&message=REDUX&style=for-the-badge&logo=redux&color=4f2382" />    
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&color=4f2382" />
+  <img src="https://img.shields.io/static/v1?label=&message=NODE.js&style=for-the-badge&logo=node.js&color=4f2382" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=4f2382" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&color=4f2382" />
   <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&style=for-the-badge&logo=javascript&color=4f2382" />
   <img src="https://img.shields.io/static/v1?label=&message=TYPESCRIPT&style=for-the-badge&logo=typescript&color=4f2382" />
-  <img src="https://img.shields.io/static/v1?label=&message=NODE.js&style=for-the-badge&logo=node.js&color=4f2382" />
-
 </div>
