@@ -1,5 +1,5 @@
 ## 👋 Introduction
-I'm Luigi Mendes, Fullstack Engineer enjoying the code world that we all love. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+I'm Luigi Mendes, Fullstack Engineer enjoying the code world. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 - 🔭 I’m currently working as a Fullstack Engineer    
 - 🌱 Studying Cloud Escalability     
 - ⚡ Fun fact: I might hit my keyboard after more then 5 hours debugging the same thing.
