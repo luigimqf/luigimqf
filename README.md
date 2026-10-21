@@ -1,39 +1,15 @@
-## 👋 Introduction
-I'm Luigi Mendes, Fullstack Engineer enjoying the code world. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
-- 🔭 I’m currently working as a Fullstack Engineer    
-- 🌱 Studying Cloud Escalability     
-- ⚡ Fun fact: I might hit my keyboard after more then 5 hours debugging the same thing.
-  ##
+### Hi, I'm Luigi 👋
 
-<div>
-  <img alt="code" src="./src/code.gif" width="100%"/>
-</div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=luigimqf&hide_border=true&background=00000000&border=f368e0&stroke=f368e0&ring=f368e0&fire=f368e0&currStreakNum=f368e0&sideNums=f368e0&currStreakLabel=f368e0&sideLabels=f368e0&dates=f368e0)](https://git.io/streak-stats"  width="390"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=luigimqf&count_private=true&title_color=f368e0&text_color=f368e0&icon_color=f368e0&border_color=f368e0&bg_color=ffffff00&hide_border=true"  width="390" />
-</div>
+AI Innovation Engineer and Senior Fullstack Engineer. I build TypeScript systems at scale and the AI tooling (MCP, LLM agents) that changes how software gets built.
 
-## 🛠️ My Projects
+**Stack:** TypeScript · React · Next.js · Node.js · GraphQL · PostgreSQL · Redis · RabbitMQ · Docker · AWS · MCP · LLM APIs (Claude, OpenAI)
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/luigimqf/Letrino" title="Letrino"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luigimqf&repo=Letrino&theme=synthwave&border_radius=10"></a>
-  <a align="left" href="https://github.com/luigimqf/SpaceFunk" title="SpaceFunk"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luigimqf&repo=SpaceFunk&theme=synthwave&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-    <a align="left" href="https://github.com/luigimqf/figjam" title="Figjam"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luigimqf&repo=figjam&theme=synthwave&border_radius=10"></a>
-    <a align="left" href="https://github.com/lucamqf/rabbithook" title="RabitHook"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lucamqf&repo=rabbithook&theme=synthwave&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-       
-## 🔨 Tools
-<div align="center">   
-    
-  <img src="https://img.shields.io/static/v1?label=&message=REACT.js&style=for-the-badge&logo=react&color=4f2382" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&color=4f2382" />
-  <img src="https://img.shields.io/static/v1?label=&message=NODE.js&style=for-the-badge&logo=node.js&color=4f2382" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=4f2382" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&color=4f2382" />
-  <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&style=for-the-badge&logo=javascript&color=4f2382" />
-  <img src="https://img.shields.io/static/v1?label=&message=TYPESCRIPT&style=for-the-badge&logo=typescript&color=4f2382" />
-</div>
+#### Featured projects
+
+- **[issuepilot](https://github.com/luigimqf/issuepilot)**: AI agent that triages GitHub issues and drafts implementation plans through an MCP server, with an eval suite and cost/latency tracing.
+- **[letrino-v2](https://github.com/luigimqf/letrino-v2)**: multiplayer word game with a TypeScript monorepo (frontend + backend), match creation and CI/CD deploy.
+- **[rabbithook](https://rabbithook.com.br)**: CLI to add and update custom React hooks in any project without installing an external package.
+
+#### Contact
+
+[LinkedIn](https://www.linkedin.com/in/luigimqf) · luigi.jackson@gmail.com · Belo Horizonte, Brazil, Remote (UTC-3)
